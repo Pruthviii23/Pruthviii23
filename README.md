@@ -38,4 +38,4 @@ A Python pipeline that collects, integrates, and analyzes Formula 1 results from
 
 ## Let’s connect
 
-Professional contact links will be added here.
+vpruthvirajgowda@gmail.com
